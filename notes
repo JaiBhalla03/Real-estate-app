@@ -1,0 +1,21 @@
+This is an Real estate app 
+Technologies used are as follows:
+1.) html
+2.) css
+3.) javascript
+4.) react js
+5.) next js
+6.) chakra ui
+
+
+in index.js, I first learnt about the banner 
+
+const Banner=({purpose})=>(
+  <Flex flexWrap="wrap" justifyContent="center" alignContent="center" m="10">
+    {purpose}
+  </Flex>
+)
+
+
+box is an abrtract component of chakra ui on to which other components are built.
+
